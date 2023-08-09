@@ -1,6 +1,19 @@
 ### Hi ฅ(＾・ω・＾ฅ)
 
-<!--
-**irvifa/irvifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<a href="https://github.com/irvifa">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/irvifa">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/irvifa">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
+<a href="https://github.com/irvifa">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+<a href="https://github.com/irvifa">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
