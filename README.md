@@ -12,8 +12,8 @@ I’m passionate about open source, cloud-native technologies, and helping other
 - **Previous Experience**: Formerly SWE at **[Spotify](https://www.spotify.com/)**.
 - **Emeritus @kubernetesio SIG Docs Co-chair**: Contributing to the Kubernetes community through documentation and enabling newcomers to learn and contribute effectively.
 - **Track Chair (TC) for ML & Data @ KubeCon '21 & '22**.
-- **Grace Hopper Celebration (GHC) Open Source Day 2022** participant: Supporting and mentoring aspiring contributors in open source communities.
-- **CNCF Ambassador @CloudNativeFdn**: Spreading knowledge and best practices about cloud-native technologies globally.
+- **Grace Hopper Celebration (GHC) Open Source Day 2022** mentor.
+- **CNCF Ambassador @CloudNativeFdn**.
 
 ---
 
