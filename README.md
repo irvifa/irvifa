@@ -22,6 +22,7 @@ I’m passionate about open source, cloud-native technologies, and helping other
 - [LinkedIn](https://www.linkedin.com/in/irvifa/).
 - [Substack Blog](https://irvifa.substack.com/) – Insights, stories, and technical deep dives.
 - [Medium Blog](https://irvifa.medium.com/) – Additional articles, tutorials, and thought pieces.
+- [gitbook/system-design](irvifa.gitbook.com/system-design) - I write more about system design here.
 
 ---
 
