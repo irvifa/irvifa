@@ -8,8 +8,8 @@ I’m passionate about open source, cloud-native technologies, and helping other
 
 ### 👩‍💻 About Me
 
-- **Current Role**: SWE at **[Mercari](https://about.mercari.com/en/)**.
-- **Previous Experience**: Formerly SWE at **[Spotify](https://www.spotify.com/)**.
+- **Current Role**: SWE @ 🍎
+- **Previous Experience**: Formerly SWE at **[Spotify](https://www.spotify.com/)** and SWE at **[Mercari](https://about.mercari.com/en/)**.
 - **Emeritus @kubernetesio SIG Docs Co-chair**: Contributing to the Kubernetes community through documentation and enabling newcomers to learn and contribute effectively.
 - **Track Chair (TC) for ML & Data @ KubeCon '21 & '22**.
 - **Grace Hopper Celebration (GHC) Open Source Day 2022** mentor.
@@ -19,10 +19,10 @@ I’m passionate about open source, cloud-native technologies, and helping other
 
 ### 📚 My Piece of Thoughts
 
-- [LinkedIn](https://www.linkedin.com/in/irvifa/).
-- [Substack Blog](https://irvifa.substack.com/) – Insights, stories, and technical deep dives.
-- [Medium Blog](https://irvifa.medium.com/) – Additional articles, tutorials, and thought pieces.
-- [gitbook/system-design](irvifa.gitbook.com/system-design) - I write more about system design here.
+- [LinkedIn](https://www.linkedin.com/in/irvifa/)
+- [Substack Blog](https://irvifa.substack.com/)
+- [Medium Blog](https://irvifa.medium.com/)
+- [gitbook/system-design](https://irvifa.gitbook.io/system-design)
 
 ---
 
