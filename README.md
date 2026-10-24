@@ -31,6 +31,8 @@ I'm passionate about open source, cloud-native technologies, and helping others 
 | 2026 | KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch China — Programme Committee |
 | 2026 | KubeCon + CloudNativeCon Europe — Programme Committee |
 | 2025 | KubeCon + CloudNativeCon NA — Programme Committee |
+| 2024 | KubeCon + CloudNativeCon NA - Program Committee |
+| 2024 | KubeCon + CloudNativeCon India - Program Committee |
 | 2022 | KubeCon + CloudNativeCon NA — Programme Committee & **Track Chair, ML & Data** |
 | 2022 | Grace Hopper Open Source Day — Mentor for ArgoCD |
 | 2022 | CppCon — Track Host |
